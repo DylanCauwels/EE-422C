@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Cheaters Program dmc3692, sm64469\
+How it Works: \
+Our program catches plagiarism in submitted text files by using hash maps and string analyzation to determine how many N-word sequences are similar between any two of the given documents. It splits up each of the given documents into N-word sequences and then inserts those sequences into a database. Once it does that with all the documents, it then goes through each possible pair and checks to see how many similarities exist between the two file\'92s HashMaps. It then saves all the pairs that exist above a certain number of similarities and outputs them to the output.txt text file located in the project folder. \
+\
+How to Use It: Using the command line, simply set the documents file path, the number of words you want included in each segment, and the minimum number of similarities you want to be flagged as cheating. Run the program and then look inside the generated output.txt file for your results.\
+\
+\
+Things to Note: The program ignores capitalization, spacing, and punctuation to ensure that small diction changes are ignored. \
+\
+Things that Don\'92t Work: Exceptionally large file quantities will lead to exponentially larger memory and storage requirements along with long runtimes. \
+}

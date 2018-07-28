@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="submissions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/grading/submissions/Project3_runtimeError.zip!/" />
+      <root url="jar://$PROJECT_DIR$/grading/submissions/Project3_compileError.zip!/" />
+      <root url="jar://$PROJECT_DIR$/grading/submissions/Project3_partialGrade.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,2 @@
+testFindFoundFull,	            2
+testInsertGeneralPartialEnd,	3

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sample_grading_script">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sample_grading_script.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
